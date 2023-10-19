@@ -11,10 +11,18 @@ const CONFIG = {
     instagram: "ryu._.st",
   },
   projects: [
-    // {
-    //   name: `seungtae-blog`,
-    //   href: "https://github.com/morethanmin/morethan-log",
-    // },
+    {
+      name: `repomon`,
+      href: "https://github.com/seungtaeryu/repomon",
+    },
+    {
+      name: `tonnybunny`,
+      href: "https://github.com/seungtaeryu/tonny-bunny",
+    },
+    {
+      name: `greencore`,
+      href: "https://github.com/seungtaeryu/green-core",
+    },
   ],
   // blog setting (required)
   blog: {
