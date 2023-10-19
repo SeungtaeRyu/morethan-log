@@ -11,10 +11,10 @@ const CONFIG = {
     instagram: "ryu._.st",
   },
   projects: [
-    {
-      name: `seungtae-blog`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
+    // {
+    //   name: `seungtae-blog`,
+    //   href: "https://github.com/morethanmin/morethan-log",
+    // },
   ],
   // blog setting (required)
   blog: {
