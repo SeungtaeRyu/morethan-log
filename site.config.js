@@ -12,15 +12,15 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `repomon`,
+      name: `1`,
       href: "https://github.com/seungtaeryu/repomon",
     },
     {
-      name: `tonny-bunny`,
+      name: `2-bunny`,
       href: "https://github.com/seungtaeryu/tonny-bunny",
     },
     {
-      name: `green-core`,
+      name: `3-core`,
       href: "https://github.com/seungtaeryu/green-core",
     },
   ],
