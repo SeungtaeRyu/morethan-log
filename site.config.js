@@ -12,22 +12,22 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `1`,
+      name: `repomon`,
       href: "https://github.com/seungtaeryu/repomon",
     },
     {
-      name: `2-bunny`,
+      name: `tonny-bunny`,
       href: "https://github.com/seungtaeryu/tonny-bunny",
     },
     {
-      name: `3-core`,
+      name: `green-core`,
       href: "https://github.com/seungtaeryu/green-core",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "seungtae-blog",
-    description: "welcome to seungtae-blog!",
+    title: "seungtae-log",
+    description: "welcome to seungtae-log!",
   },
 
   // CONFIG configration (required)
