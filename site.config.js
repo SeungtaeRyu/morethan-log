@@ -16,11 +16,11 @@ const CONFIG = {
       href: "https://github.com/seungtaeryu/repomon",
     },
     {
-      name:  `tonnybunny`,
+      name: `tonny-bunny`,
       href: "https://github.com/seungtaeryu/tonny-bunny",
     },
     {
-      name: `greencore`,
+      name: `green-core`,
       href: "https://github.com/seungtaeryu/green-core",
     },
   ],
