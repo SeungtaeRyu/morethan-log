@@ -15,14 +15,14 @@ const CONFIG = {
       name: `repomon`,
       href: "https://github.com/seungtaeryu/repomon",
     },
-    {
-      name: `tonny-bunny`,
-      href: "https://github.com/seungtaeryu/tonny-bunny",
-    },
-    {
-      name: `green-core`,
-      href: "https://github.com/seungtaeryu/green-core",
-    },
+    // {
+    //   name: `tonny-bunny`,
+    //   href: "https://github.com/seungtaeryu/tonny-bunny",
+    // },
+    // {
+    //   name: `green-core`,
+    //   href: "https://github.com/seungtaeryu/green-core",
+    // },
   ],
   // blog setting (required)
   blog: {
